@@ -1,23 +1,24 @@
-# Online-Food-Delivery-Application.
-
 # 🍴 Food Order & Delivery Application
 
-A **Food Ordering and Delivery Web Application** where restaurants can manage menus, customers can place orders, and admins can track and manage the entire process.
+A **Food Ordering and Delivery Web Application** built using **Java Full Stack**.  
+This project allows restaurants to manage menus, customers to place and track orders, and admins to oversee users, restaurants, and orders.
 
 ---
 
 ## 🚀 Features
-- 👨‍🍳 **Restaurants**: Add/update menus, view and manage orders  
-- 👤 **Customers**: Browse food items, add to cart, place orders, track status  
+- 👨‍🍳 **Restaurants**: Add/update menus, manage customer orders  
+- 👤 **Customers**: Browse menus, add to cart, place orders, track delivery status  
 - 🛠️ **Admin**: Manage users, restaurants, and orders  
-- 🛒 Cart system with simulated payment  
+- 🛒 Cart system with payment simulation  
 - 📦 Order tracking (*Pending → Preparing → Out for Delivery → Delivered*)  
 
 ---
 
 ## 🏗️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Python (Flask/Django – depending on your implementation)  
-- **Database**: SQLite / MySQL  
+- **Backend**: Java (Spring Boot)  
+- **Database**: MySQL
+- **Tools**: Maven, Hibernate/JPA  
 
 ---
+
